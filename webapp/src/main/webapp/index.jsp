@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h2> My name is Ashish Singh Bisht </h2>
-<h2> deploy on conatiner </h2>
+<h2> Build Image and deploy container on clinet using ansible playbook</h2>
